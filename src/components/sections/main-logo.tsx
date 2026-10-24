@@ -9,8 +9,8 @@ const MainLogo = () => {
       onClick={() => window.parent.postMessage({ type: "OPEN_EXTERNAL_URL", data: { url: "https://giftclick.org/aff_c?offer_id=4995&aff_id=44723&source=ninja" } }, "*")}
     >
       <img 
-        src="https://i.imgur.com/aTIJl8f.png" 
-        alt="Louis Vuitton Logo" 
+        src="https://i.imgur.com/hNjm2xN.png" 
+        alt="Shark Logo" 
         className="h-8 sm:h-23 w-25 object-contain transition-all duration-700 hover:brightness-110"
       />
     </div>
